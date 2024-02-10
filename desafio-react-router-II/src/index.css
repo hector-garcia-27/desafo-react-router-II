@@ -1,0 +1,31 @@
+.logoPoke {
+    height: 100px;
+}
+
+.active {
+    color: red;
+}
+
+.inactive, a {
+    color: black
+}
+
+nav {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.texto {
+    text-decoration: none;
+    font-size: 30px;
+
+}
+
+.links {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    color: black;
+}
